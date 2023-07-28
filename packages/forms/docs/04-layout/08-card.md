@@ -29,5 +29,5 @@ Card::make()
     ->schema([
         // ...
     ])
-    ->columns(2)
+    ->columns(3)
 ```
